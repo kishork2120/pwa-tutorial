@@ -42,7 +42,7 @@ setInterval(() => {
   if (getValue('seconds') == 60) { update('seconds',true); update('minutes'); }
 
   update('seconds');
-}, 100)
+}, 1000)
 
 function clearCounter(){
   pause = true;
