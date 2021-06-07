@@ -1,0 +1,9 @@
+{
+  "name": "My Stopwatch",
+  "short_name": "Stopwatch",
+  "theme_color": "#222831",
+  "background_color": "#ffad17",
+  "display": "standalone",
+  "Scope": "",
+  "start_url": "/index.html"
+}
